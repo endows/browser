@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-atom-electron": "^0.12.0"
+  }
 }
